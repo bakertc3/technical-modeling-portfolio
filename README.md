@@ -1,8 +1,8 @@
 # Tom's Technical Modeling Portfolio
 
-Welcome to my github! This repo contains public facing summaries of selected mathematics, statistics, and modeling projects that I've recently completed as part of my coursework and independent portfolio development as an undergraduate applied mathematics major.
+Hi! Welcome to my github. This repo contains public facing summaries of selected mathematics, statistics, and modeling projects that I've recently completed as part of my coursework and independent portfolio development as an undergraduate applied mathematics major.
 
-The projects emphasize applied modeling, statistical analysis, differential equations, linear algebra, MATLAB visualization, R-based regression modeling, and technical communication. The purpose of this portfolio is to show how I approach quantitative problems: defining assumptions, selecting variables, building models, evaluating results, and communicating limitations clearly. Thanks for looking! - Tom
+The projects emphasize applied modeling, statistical analysis, differential equations, linear algebra, MATLAB visualization, R-based regression modeling, and technical communication. The purpose of this portfolio is to show how I approach quantitative problems: defining assumptions, selecting variables, building models, evaluating results, and communicating limitations clearly. Thanks for visiting! - Tom
 
 ## Portfolio Focus
 
@@ -42,7 +42,7 @@ Modeled network throughput as a system of linear equations and solved using row 
 
 Created 3D visualizations of planes, projectile motion, velocity vectors, normal vectors, tangent planes, and surfaces using MATLAB tools including `surf`, `plot3`, `quiver3`, and `surfnorm`.
 
-## Academic Integrity Note
+## Tom's Academic Integrity Note
 
 I (Tom) intentionally created and curated this repository as a public portfolio rather than a collection of course submissions. I have omitted full assignment prompts, instructor-provided templates, complete solution files, and course-specific materials.
 
@@ -58,6 +58,6 @@ To avoid cheating and/or plagiarism, these public versions summarize project goa
 - SPSS
 - Stata
 
-## About
+## About Tom
 
-I am a veteran, engineer, and mathematics student with experience in technical operations, regulatory systems, emergency response, policy analysis, logistics, auditing, and project management. My current academic focus is applied mathematics, statistical modeling, and systems engineering.
+I am a veteran, pilot, and mathematics student with experience in technical operations, regulatory systems, emergency response, policy analysis, logistics, auditing, and project management. My current academic focus is applied mathematics, statistical modeling, and systems engineering.
