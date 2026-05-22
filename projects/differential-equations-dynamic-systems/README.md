@@ -33,6 +33,16 @@ For linear systems, matrix methods were used to compute eigenvalues and eigenvec
 
 For forced response and circuit style models, Laplace transforms and unit-step inputs were used to analyze how systems respond to external forcing functions or changes in input over time.
 
+## Selected Visual
+
+![Phase-plane visualization of a linear system of differential equations](figures/phase-portrait-linear-system.png)
+
+## Selected Result
+
+This visualization shows the phase plane behavior of a linear system of differential equations. The direction field and sample trajectories illustrate how different initial conditions evolve over time and help reveal the qualitative structure of the system.
+
+This visual was especially useful for me because it connected analytical methods such as eigenvalue and eigenvector analysis with geometric interpretation. Rather than viewing the system only as algebra, the plot made stability behavior and trajectory patterns easier to understand.
+
 ## Key Findings
 
 This project demonstrated how differential equations can describe systems whose behavior changes over time. Analytical solutions provided exact forms where possible. MATLAB tools made it easier to visualize trajectories, transient behavior, and long term system behavior.
