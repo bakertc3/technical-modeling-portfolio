@@ -33,6 +33,16 @@ The logistic regression models were used to estimate the probability of heart di
 
 The random forest classification model was used as a more flexible machine learning approach for predicting heart disease status. A separate random forest regression model was used to predict maximum heart rate achieved.
 
+## Selected Visual
+
+![ROC curve for heart disease risk classification model](figures/heart-disease-roc-curve.png)
+
+## Selected Result
+
+This ROC curve shows the tradeoff between sensitivity and specificity for a heart disease risk classification model. The curve sits above the diagonal reference line, indicating that the model performs better than random classification.
+
+This visualization was useful for me because it evaluated classification performance across different decision thresholds rather than relying only on a single accuracy value.
+
 ## Key Findings
 
 This project showed how different modeling methods can be used for different analytical goals.
