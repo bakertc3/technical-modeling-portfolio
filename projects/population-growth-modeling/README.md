@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, I compared multiple population growth models against real-world U.S. population data from 1950 through 2022.
+Hello there! This was a project I worked on for a mathematical modeling course I took. In this project, I compared multiple population growth models against real-world U.S. population data from 1950 through 2022.
 
 My goal was to evaluate how different mathematical model structures behave when applied to historical population data, then use those models to generate forecasts for selected future years.
 
