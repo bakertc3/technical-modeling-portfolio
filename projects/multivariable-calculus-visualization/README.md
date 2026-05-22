@@ -2,7 +2,7 @@
 
 ## Overview
 
-I did this project in Calculus III using MATLAB to visualize and analyze several concepts from the course, including planes, curves in three dimensional space, velocity vectors, normal vectors, tangent planes, and surfaces.
+Hello! I did this project in Calculus III using MATLAB to visualize and analyze several concepts from the course, including planes, curves in three dimensional space, velocity vectors, normal vectors, tangent planes, and surfaces.
 
 The goal was to connect symbolic and geometric reasoning with computational visualization. Instead of treating multivariable calculus as only algebraic manipulation, the project emphasized how MATLAB can make three dimensional relationships easier to interpret.
 
@@ -39,6 +39,16 @@ Plane and surface problems were visualized using surface plots, axis labels, gri
 Vector valued functions were used to model motion through three dimensional space. The curves were plotted with start and end points, and velocity or tangent vectors were used to interpret direction and change over time.
 
 Tangent plane and surface problems were used to help connect local linear approximation with the geometry of surfaces in three dimensions.
+
+## Selected Visual
+
+![Surface and tangent plane visualization in MATLAB](figures/tangent-plane-surface.png)
+
+## Selected Result
+
+This visualization shows a surface, its tangent plane, and the point of tangency. The figure illustrates how MATLAB can be used to connect multivariable calculus with geometric interpretation and local linear approximation.
+
+I chose this project because for me, it emphasized the value of visualization in understanding multivariable relationships. Plotting the surface and tangent plane made it easier to interpret how local behavior near a point can be approximated and communicated clearly.
 
 ## Key Takeaways
 
