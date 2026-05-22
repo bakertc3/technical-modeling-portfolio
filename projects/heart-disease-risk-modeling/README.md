@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, I used a clinical heart disease dataset to examine how patient characteristics and medical indicators relate to the presence of heart disease.
+Hello. I developed this project in an advanced statistics course I took. In this project, I used a clinical heart disease dataset to examine how patient characteristics and medical indicators relate to the presence of heart disease.
 
 My goal was to compare interpretable statistical modeling methods with machine learning classification methods and evaluate how well different models predicted heart disease status.
 
