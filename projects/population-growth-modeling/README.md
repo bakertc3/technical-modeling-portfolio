@@ -63,12 +63,6 @@ The carrying capacity model provided a useful way to think about population grow
 - Creating clear visualizations of model behavior
 - Communicating model assumptions, limitations, and tradeoffs
 
-## Systems Engineering Connection
-
-This stats project connects to systems engineering because it compares multiple model structures for the same real-world system. Rather than assuming one model is automatically correct, the project evaluates how model assumptions affect outputs, forecasts, and interpretation.
-
-The work also demonstrates the importance of defining system boundaries, identifying variables, testing model behavior, and communicating uncertainty when using mathematical models to support decisionmaking.
-
 ## Tom's Academic Integrity Note
 
 This page is a public facing project summary. Full assignment prompts, course specific materials, instructor provided templates, and complete solution files are intentionally omitted.
