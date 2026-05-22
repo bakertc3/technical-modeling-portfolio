@@ -30,13 +30,13 @@ The image compression portion used singular value decomposition to approximate a
 
 ## Selected Visual
 
-![Phase-plane visualization of a linear system of differential equations](figures/phase-portrait-linear-system.png)
+![SVD image compression comparison](figures/svd-image-compression-comparison.png)
 
 ## Selected Result
 
-This visualization shows the phase-plane behavior of a linear system of differential equations. The direction field and sample trajectories illustrate how different initial conditions evolve over time and help reveal the qualitative structure of the system.
+This visualization compares the original image with several SVD based rank-k approximations. As the compression ratio increases, fewer singular values are retained, which reduces the amount of information needed to represent the image but also produces greater visual distortion.
 
-This visual was especially useful to me because it connected analytical methods such as eigenvalue and eigenvector analysis with geometric interpretation. Rather than viewing the system only as algebra, the plot made stability behavior and trajectory patterns easier to understand.
+I included this comparison because it demonstrates an important modeling tradeoff: higher compression improves efficiency, but lower rank approximations preserve less detail. This connects directly to engineering analysis because model simplicity, storage efficiency, and accuracy must often be balanced against one another.
 
 ## Key Findings
 
@@ -56,7 +56,7 @@ The project emphasized the tradeoff between accuracy and efficiency, which is a 
 - Interpreting compression versus accuracy tradeoffs
 - Communicating mathematical results in an applied context
 
-## Engineering Connection
+## Systems Engineering Connection
 
 This project connects to systems engineering because it models relationships among connected components and evaluates tradeoffs between competing objectives.
 
