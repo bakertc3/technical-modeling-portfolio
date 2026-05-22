@@ -28,6 +28,16 @@ The network flow portion of the project represented relationships among routers 
 
 The image compression portion used singular value decomposition to approximate an image matrix using a reduced number of singular values. By comparing rank-k approximations, the project evaluated how much information could be preserved while reducing the amount of data needed to represent the image.
 
+## Selected Visual
+
+![Phase-plane visualization of a linear system of differential equations](figures/phase-portrait-linear-system.png)
+
+## Selected Result
+
+This visualization shows the phase-plane behavior of a linear system of differential equations. The direction field and sample trajectories illustrate how different initial conditions evolve over time and help reveal the qualitative structure of the system.
+
+This visual was especially useful to me because it connected analytical methods such as eigenvalue and eigenvector analysis with geometric interpretation. Rather than viewing the system only as algebra, the plot made stability behavior and trajectory patterns easier to understand.
+
 ## Key Findings
 
 The network flow model showed how a practical system can be translated into a matrix equation and solved using standard linear algebra tools. Different solution methods reached the same underlying result while emphasizing different computational ideas.
