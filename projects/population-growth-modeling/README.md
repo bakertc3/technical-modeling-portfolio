@@ -35,6 +35,16 @@ The third model incorporated a carrying capacity concept. This allowed the model
 
 Each model was used to estimate population values over the historical period and generate forecasts for 2015 and 2030. Model outputs were compared visually and by calculating percentage error against observed values.
 
+## Selected Visual
+
+![Discrete fixed-percentage population model compared with observed U.S. population data](figures/population-model-comparison.png)
+
+## Selected Result
+
+This visualization compares a discrete fixed percentage population model with observed U.S. population data from 1950 through 2022. The model captures the general long-term growth trend but does not perfectly match the observed population curve across the full historical period.
+
+The forecast markers for 2015 and 2030 show how a simple growth model can be extended beyond the observed data, while also illustrating why model assumptions and error diagnostics matter when using mathematical models for prediction.
+
 ## Key Findings
 
 The big takeaway from this project is that model structure matters. A simple fixed percentage model can be useful for short term approximation, but it may become less realistic when extended over longer time periods.
